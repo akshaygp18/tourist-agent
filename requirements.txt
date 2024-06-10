@@ -1,0 +1,7 @@
+pandas
+openai
+tiktoken
+bytesbufio
+requests
+pillow
+-e .
